@@ -1,0 +1,25 @@
+{
+ "players": {
+  "bdgfd": {
+   "name": "bdgfd",
+   "created": 1794412683.4480405,
+   "last": 1794412813.7869892,
+   "runs": [
+    {
+     "time": 1794412813.7869892,
+     "score": 800,
+     "money": 655,
+     "wins": 5,
+     "won": true,
+     "rounds": [
+      "jackpot",
+      "pass",
+      "pass",
+      "jackpot",
+      "pass"
+     ]
+    }
+   ]
+  }
+ }
+}
